@@ -1,7 +1,7 @@
 # 📊 Financial Performance Analysis & Executive Dashboard
 
 > End-to-End Data Analytics Project  
-> Tools Used: SQL • Python • Power BI • Excel
+> Tools Used: •SQL •Python •Power BI •Excel •Statistics
 
 ---
 
