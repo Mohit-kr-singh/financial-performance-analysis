@@ -53,8 +53,7 @@ Leadership needed a structured financial reporting framework to monitor profitab
 
 # 📂 Project Structure
 
-![alt text](Images/Layout.png)
-
+![alt text](<File layout.png>)
 
 ---
 
